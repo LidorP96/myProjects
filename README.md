@@ -1,6 +1,7 @@
 ## whoami
 
-Add a short introduction about yourself, focusing on your areas of development interest.
+Hello!<br> My name is Lidor, I'm a Highly motivated and detail-oriented individual, working as Help Desk Support with experience in troubleshooting hardware and software issues.
+I also have a solid foundation in managing Linux/Windows systems, cloud computing, and networking." 
 
 ## Certifications
 
@@ -9,7 +10,8 @@ Add a short introduction about yourself, focusing on your areas of development i
 
 ## Objective
 
-Describe the primary purpose of this repository.
+This repository demonstrates my knowledge across various technical domains acquired through years of study.<br>
+I will showcase my proficiency in Linux, cloud computing, and cybersecurity.
 
 ## Projects
 
